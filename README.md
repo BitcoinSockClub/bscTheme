@@ -1,0 +1,2 @@
+# bscTheme
+BSC theme files.
